@@ -23,6 +23,6 @@ title: "Uses"
 ## Video
 - [AviUtl](https://www.videohelp.com/software/AviUtl)
 
-# Image
+## Image
 - Photoshop 2023
 - FireAlpaca
