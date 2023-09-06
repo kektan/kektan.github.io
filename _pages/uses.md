@@ -3,9 +3,9 @@ permalink: /uses/
 title: "Uses"
 ---
 
-# Software
-## Audio
-### Vocal Synth Programs
+## Software
+### Audio
+#### Vocal Synth Programs
 - [VOCALOID V4](https://www.vocaloid.com/)
   - Kagamine Rin/Len V4
   - Otomachi Una
@@ -17,12 +17,12 @@ title: "Uses"
   - Koharu Rikka
   - Natsuki Karin
 
-### MIX
+#### MIX
 - [FL Studio 21](https://www.image-line.com)
 
-## Video
+### Video
 - [AviUtl](https://www.videohelp.com/software/AviUtl)
 
-## Image
+### Image
 - Photoshop 2023
 - FireAlpaca
