@@ -4,6 +4,14 @@ title: "About"
 ---
 
 <style>
+@import url('https://static.omg.lol/type/font-honey.css');
+@import url('https://static.omg.lol/type/font-lato-regular.css');
+@import url('https://static.omg.lol/type/font-lato-bold.css');
+@import url('https://static.omg.lol/type/font-lato-italic.css');
+@import url('https://static.omg.lol/type/font-md-io.css');
+@import url('https://static.omg.lol/type/fontawesome-free/css/all.css');
+@import url('https://omgalol.cache.lol/profiles/icons/omg.lol-icons.css');
+    
 table {border: none;}
 td, th {
     padding: .75em;
