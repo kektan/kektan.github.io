@@ -1,3 +1,8 @@
+---
+permalink: /uses/
+title: "Uses"
+---
+
 Uses
 
 # Software
