@@ -3,27 +3,25 @@ permalink: /uses/
 title: "Uses"
 ---
 
-Uses
-
 # Software
 ## Audio
 ### Vocal Synth Programs
-- [http://vocaloid.com](Vocaloid V4)
+- [VOCALOID V4](https://www.vocaloid.com/)
   - Kagamine Rin/Len V4
   - Otomachi Una
 - UTAU
-- [https://cevio.jp](CeVIO (AI))
+- [CEVIO AI](https://cevio.jp)
   - KAFU
   - SEKAI
-- [https://dreamtonics.com/synthesizerv/](Synthesizer V)
+- [Synthesizer V](https://dreamtonics.com/synthesizerv/)
   - Koharu Rikka
   - Natsuki Karin
 
 ### MIX
-- [https://www.image-line.com](FL Studio 21)
+- [FL Studio 21](https://www.image-line.com)
 
 ## Video
-- [https://www.videohelp.com/software/AviUtl](AviUtl)
+- [AviUtl](https://www.videohelp.com/software/AviUtl)
 
 # Image
 - Photoshop 2023
